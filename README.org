@@ -1,0 +1,10 @@
+* trivial-update
+
+Easy modification of places with any given function
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cbaggers/trivial-update.git   |
+| commit  | 7a57ac5  |
+| systems | trivial-update |
+|---------+-------------------------------------------|
+
